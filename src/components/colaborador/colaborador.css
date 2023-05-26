@@ -1,0 +1,52 @@
+.colaborador__card{
+    width: 280px;
+    margin: 0 0 1.5rem 0;
+    position:relative;
+}
+
+.colaborador__encabezado{
+    border-radius: 10px 10px 0 0;
+}
+
+.colaborador__encabezado img{
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.colaborador__info{
+    background-color: #fff;
+    border-radius:  0 0 10px 10px;
+    box-shadow: 5px 5px 15px #0001;
+    padding:90px 0 40px 0;
+    min-height: 100px;
+    font-family: var(--Montserrat);
+}
+
+.colaborador__text{
+    line-height: 1.4;
+    font-size: 1.1rem;
+}
+
+.colaborador__nombre{
+    color: var(--morado);
+    font-weight: bold;
+    margin-bottom: .5rem;
+}
+
+
+.colaborador__puesto{
+    color: var(--negro);
+    padding: 0 .5rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+.boton-eliminar{
+    font-size: 1.5rem;
+    position:absolute;
+    cursor: pointer;
+    right: 0;
+    top: 0;
+}

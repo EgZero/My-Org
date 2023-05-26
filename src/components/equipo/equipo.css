@@ -1,0 +1,30 @@
+.equipo__container{
+    width: 100%;
+    text-align: center;
+    padding: 2rem;
+    box-sizing: border-box;
+    position:relative;
+}
+
+.equipo__titulo{
+    font-weight: 400;
+    display: inline-block;
+    color:var(--negro);
+    font-family: var(--Prata);
+    font-size: 2rem;
+    padding-bottom: .5rem;
+    border-bottom: 4px solid;
+}
+
+.equipo__lista{
+    list-style: none;
+    display:  flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.boton-color{
+    position: absolute;
+    top: 1rem;
+    right: 3rem;
+}

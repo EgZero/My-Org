@@ -1,0 +1,19 @@
+.listaOpciones-label{
+    display: block;
+}
+.listaOpciones-label{
+    line-height: 1.5;
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family:var(--Montserrat);
+}
+
+.listaOpciones-list{
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 10px 10px 30px #0001;
+    border: none;
+    padding: 30px 20px;
+    outline-color: var(--morado);
+    box-sizing: border-box;
+}

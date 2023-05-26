@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.icono{
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 0 1rem;
+}
+
+.autor{
+    font-family: var(--Montserrat);
+    color: #fff;
+}

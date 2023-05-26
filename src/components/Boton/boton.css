@@ -1,0 +1,15 @@
+.form__button{
+    background-color: var(--morado);
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: var(--Montserrat);
+    padding: 1.5rem 2rem;
+    border: none;
+    margin: 2rem 0;
+    cursor: pointer;
+    color: #fff;
+}
+
+.form__button:hover{
+    color: #95FFd4;
+}

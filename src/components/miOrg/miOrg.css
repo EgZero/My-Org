@@ -1,0 +1,20 @@
+.miOrg__section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.miOrg__title{
+    color: var(--morado);
+    font-family: var(--Prata);
+    font-size: 2.5rem;
+    font-weight: 400 ;
+    padding-bottom: 1.5rem;
+    border-bottom: 4px solid var(--morado);
+    
+}
+
+.miOrg__button{
+    position: absolute;
+    right: 15%;
+}

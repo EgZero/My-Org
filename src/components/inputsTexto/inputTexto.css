@@ -1,0 +1,27 @@
+.input-container{
+    margin: 28px 0;
+    font-family: var(--Montserrat);
+}
+
+.input-label{
+    font-size: 1.1rem;
+    font-weight: 600;
+    display: block;
+    line-height: 1.5;
+}
+
+.input-input{
+    width: 100%;
+    background-color: #fff;
+    display: block;
+    border: none;
+    outline-color: var(--morado);
+    padding: 30px 20px;
+    box-shadow: 10px 10px 30px #0001;
+    box-sizing: border-box;
+}
+
+.input__color{
+    height: 40px;
+    padding: 5px 20px;
+}
